@@ -1,0 +1,4 @@
+interface:
+  display_name: "竞品分析"
+  short_description: "做产品/功能层面的竞品分析与导出版"
+  default_prompt: "先明确竞品分析目标和范围，补齐必要问题，再按统一字段做研究底稿；如果适合，再输出更易读的图文导出版。"
